@@ -55,7 +55,7 @@ public class Calculator {
             throw new CalcError();
         }
         ans = digit.pop();
-        return new BigDecimal(String.valueOf(ans)).stripTrailingZeros().toPlainString();
+        return new BigDecimal(String.valueOf(ans.setScale(5,RoundingMode.HALF_UP))).stripTrailingZeros().toPlainString();
     }
 
     /**
@@ -145,7 +145,7 @@ public class Calculator {
             case "*":
                 return op1.multiply(op2);
             case "/":
-                return op1.divide(op2,5, RoundingMode.HALF_UP);
+                return op1.divide(op2,10, RoundingMode.HALF_UP);
             case "+":
                 return op1.add(op2);
             case "-":
