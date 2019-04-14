@@ -1,4 +1,4 @@
-# EXE3-RESTful Calculator
+# EXE4-RESTful Calculator with Spring security and actuator
 ## Getting Started
 Developed with IntelliJ IDEA, consider build by yourself if you use other IDEs...
 
