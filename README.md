@@ -6,3 +6,4 @@ homework for SE418
 - exe2: Analysis of SJTU website
 - exe3: RESTful calculator
 - exe4: RESTful calculator with Spring security and actuator
+- exe5: Performance
