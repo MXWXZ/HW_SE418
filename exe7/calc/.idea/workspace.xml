@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4a057ad8-8d85-423a-bbef-add747623c2a" name="Default Changelist" comment="" />
+    <list default="true" id="4a057ad8-8d85-423a-bbef-add747623c2a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../auth/src/main/java/com/imwxz/calculator/AuthController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../exe6/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../exe6/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
     <ignored path="$PROJECT_DIR$/build/" />
@@ -51,28 +54,6 @@
                 <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
                 <item name="calculator" type="f1a62948:ProjectNode" />
               </path>
-              <path>
-                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
-                <item name="calculator" type="f1a62948:ProjectNode" />
-                <item name="Source Sets" type="e897c970:GradleViewContributor$SourceSetsNode" />
-              </path>
-              <path>
-                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
-                <item name="calculator" type="f1a62948:ProjectNode" />
-                <item name="Tasks" type="e4a08cd1:TasksNode" />
-              </path>
-              <path>
-                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
-                <item name="calculator" type="f1a62948:ProjectNode" />
-                <item name="Tasks" type="e4a08cd1:TasksNode" />
-                <item name="build" type="c8890929:TasksNode$1" />
-              </path>
-              <path>
-                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
-                <item name="calculator" type="f1a62948:ProjectNode" />
-                <item name="Tasks" type="e4a08cd1:TasksNode" />
-                <item name="docker" type="c8890929:TasksNode$1" />
-              </path>
             </expand>
             <select />
           </tree_state>
@@ -83,68 +64,26 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/imwxz/calculator/CalculatorApplicationTests.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/imwxz/calculator/CalcController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="506">
-              <caret line="39" column="17" selection-start-line="39" selection-start-column="17" selection-end-line="39" selection-end-column="17" />
+            <state relative-caret-position="792">
+              <caret line="46" column="5" selection-start-line="46" selection-start-column="5" selection-end-line="46" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/imwxz/calculator/HomeController.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="132">
-              <caret line="9" column="32" selection-start-line="9" selection-start-column="32" selection-end-line="9" selection-end-column="32" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/imwxz/calculator/CalculatorApplication.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="132">
-              <caret line="7" selection-start-line="7" selection-end-line="7" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#256#257#0" expanded="true" />
-                <element signature="e#328#329#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/build.gradle">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/imwxz/calculator/CalculatorApplication.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="339">
-              <caret line="22" column="27" selection-start-line="22" selection-start-column="27" selection-end-line="22" selection-end-column="27" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Dockerfile">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="88">
-              <caret line="4" column="77" selection-start-line="4" selection-start-column="77" selection-end-line="4" selection-end-column="77" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/imwxz/calculator/CalcController.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="66">
-              <caret line="8" selection-start-line="8" selection-end-line="8" />
+            <state relative-caret-position="110">
+              <caret line="5" column="22" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#256#257#0" expanded="true" />
+                <element signature="e#328#329#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -165,7 +104,7 @@
     </findStrings>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -174,7 +113,6 @@
         <option value="$PROJECT_DIR$/src/main/java/com/imwxz/calculator/Main.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/imwxz/calculator/Calculator.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/imwxz/calculator/JsonResult.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/imwxz/calculator/CalcController.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/imwxz/calculator/MyUserDetailsService.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/imwxz/calculator/MvcConfig.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/imwxz/calculator/UserController.java" />
@@ -186,10 +124,11 @@
         <option value="$PROJECT_DIR$/settings.gradle" />
         <option value="$PROJECT_DIR$/gradle.properties" />
         <option value="$PROJECT_DIR$/application.properties" />
-        <option value="$PROJECT_DIR$/src/test/java/com/imwxz/calculator/CalculatorApplicationTests.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/imwxz/calculator/CalculatorApplication.java" />
         <option value="$PROJECT_DIR$/Dockerfile" />
         <option value="$PROJECT_DIR$/build.gradle" />
+        <option value="$PROJECT_DIR$/src/test/java/com/imwxz/calculator/CalculatorApplicationTests.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/imwxz/calculator/CalcController.java" />
       </list>
     </option>
   </component>
@@ -218,9 +157,66 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="ProjectPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="calculator" type="b2602c69:ProjectViewProjectNode" />
+              <item name="calc" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="calculator" type="b2602c69:ProjectViewProjectNode" />
+              <item name="calc" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="calculator" type="b2602c69:ProjectViewProjectNode" />
+              <item name="calc" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="calculator" type="b2602c69:ProjectViewProjectNode" />
+              <item name="calc" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="calculator" type="b2602c69:ProjectViewProjectNode" />
+              <item name="calc" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="calculator" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="calculator" type="b2602c69:ProjectViewProjectNode" />
+              <item name="calc" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="calculator" type="b2602c69:ProjectViewProjectNode" />
+              <item name="calc" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="calculator" type="b2602c69:ProjectViewProjectNode" />
+              <item name="calc" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="calculator" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
       <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -230,7 +226,7 @@
     <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1556428200530" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1557072106773" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -250,7 +246,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Gradle.exe6 [docker]">
+  <component name="RunManager" selected="Spring Boot.CalculatorApplication">
     <configuration name="exe6 [docker]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -271,7 +267,7 @@
       <method v="2" />
     </configuration>
     <configuration name="CalculatorApplicationTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="com.imwxz.calculator.test" />
+      <module name="imwxz.calculator.test" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.imwxz.calculator.*" />
@@ -285,8 +281,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CalculatorApplicationTests.login" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="com.imwxz.calculator.test" />
+    <configuration name="CalculatorApplicationTests.loginError" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="imwxz.calculator.test" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.imwxz.calculator.*" />
@@ -295,58 +291,31 @@
       </extension>
       <option name="PACKAGE_NAME" value="com.imwxz.calculator" />
       <option name="MAIN_CLASS_NAME" value="com.imwxz.calculator.CalculatorApplicationTests" />
-      <option name="METHOD_NAME" value="login" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="CalculatorApplicationTests.roleNone" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="com.imwxz.calculator.test" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.imwxz.calculator.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.imwxz.calculator" />
-      <option name="MAIN_CLASS_NAME" value="com.imwxz.calculator.CalculatorApplicationTests" />
-      <option name="METHOD_NAME" value="roleNone" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="CalculatorApplicationTests.userTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="com.imwxz.calculator.test" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.imwxz.calculator.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.imwxz.calculator" />
-      <option name="MAIN_CLASS_NAME" value="com.imwxz.calculator.CalculatorApplicationTests" />
-      <option name="METHOD_NAME" value="userTest" />
+      <option name="METHOD_NAME" value="loginError" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="CalculatorApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
-      <module name="com.imwxz.calculator.main" />
+      <module name="imwxz.calculator.main" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.imwxz.calculator.CalculatorApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <list>
+      <item itemvalue="Gradle.exe6 [docker]" />
+      <item itemvalue="JUnit.CalculatorApplicationTests.loginError" />
+      <item itemvalue="JUnit.CalculatorApplicationTests" />
+      <item itemvalue="Spring Boot.CalculatorApplication" />
+    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Gradle.exe6 [docker]" />
         <item itemvalue="JUnit.CalculatorApplicationTests" />
-        <item itemvalue="JUnit.CalculatorApplicationTests.login" />
-        <item itemvalue="JUnit.CalculatorApplicationTests.roleNone" />
-        <item itemvalue="JUnit.CalculatorApplicationTests.userTest" />
+        <item itemvalue="JUnit.CalculatorApplicationTests.loginError" />
+        <item itemvalue="Gradle.exe6 [docker]" />
       </list>
     </recent_temporary>
   </component>
@@ -371,49 +340,55 @@
       <workItem from="1556425125149" duration="22000" />
       <workItem from="1556427021760" duration="1378000" />
       <workItem from="1556456394088" duration="5000" />
+      <workItem from="1557048493295" duration="3178000" />
+      <workItem from="1557067267023" duration="935000" />
+      <workItem from="1557068870721" duration="1046000" />
+      <workItem from="1557070437873" duration="273000" />
+      <workItem from="1557071755945" duration="366000" />
+      <workItem from="1557073016020" duration="5000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="CalculatorApplicationTests_roleNone - 2019.04.15 at 00h 45m 50s.xml">
-      <configuration name="CalculatorApplicationTests.roleNone" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="CalculatorApplicationTests_roleNone - 2019.04.15 at 00h 46m 24s.xml">
-      <configuration name="CalculatorApplicationTests.roleNone" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="CalculatorApplicationTests_roleNone - 2019.04.15 at 00h 47m 45s.xml">
-      <configuration name="CalculatorApplicationTests.roleNone" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="CalculatorApplicationTests_login - 2019.04.15 at 00h 47m 55s.xml">
-      <configuration name="CalculatorApplicationTests.login" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="CalculatorApplicationTests_login - 2019.04.15 at 00h 48m 07s.xml">
-      <configuration name="CalculatorApplicationTests.login" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="CalculatorApplicationTests_login - 2019.04.15 at 00h 50m 11s.xml">
-      <configuration name="CalculatorApplicationTests.login" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="CalculatorApplicationTests_login - 2019.04.15 at 00h 50m 23s.xml">
-      <configuration name="CalculatorApplicationTests.login" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="CalculatorApplicationTests_login - 2019.04.15 at 00h 54m 04s.xml">
-      <configuration name="CalculatorApplicationTests.login" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="CalculatorApplicationTests_login - 2019.04.15 at 00h 55m 08s.xml">
-      <configuration name="CalculatorApplicationTests.login" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="CalculatorApplicationTests - 2019.04.15 at 00h 55m 16s.xml">
+      <configuration name="CalculatorApplicationTests" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CalculatorApplicationTests_calc - 2019.05.05 at 22h 45m 57s.xml">
+      <configuration name="CalculatorApplicationTests.calc" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CalculatorApplicationTests_calc - 2019.05.05 at 22h 47m 43s.xml">
+      <configuration name="CalculatorApplicationTests.calc" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CalculatorApplicationTests_calc - 2019.05.05 at 22h 51m 51s.xml">
+      <configuration name="CalculatorApplicationTests.calc" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CalculatorApplicationTests_login - 2019.05.05 at 22h 53m 33s.xml">
+      <configuration name="CalculatorApplicationTests.login" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CalculatorApplicationTests_login - 2019.05.05 at 22h 54m 05s.xml">
+      <configuration name="CalculatorApplicationTests.login" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CalculatorApplicationTests_login - 2019.05.05 at 22h 55m 01s.xml">
+      <configuration name="CalculatorApplicationTests.login" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CalculatorApplicationTests_loginError - 2019.05.05 at 22h 55m 15s.xml">
+      <configuration name="CalculatorApplicationTests.loginError" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CalculatorApplicationTests_loginError - 2019.05.05 at 22h 56m 10s.xml">
+      <configuration name="CalculatorApplicationTests.loginError" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CalculatorApplicationTests - 2019.05.05 at 22h 56m 18s.xml">
       <configuration name="CalculatorApplicationTests" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="27481000" />
+    <option name="totallyTimeSpent" value="33284000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="34" width="1920" height="1046" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21878335" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23212379" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -443,7 +418,7 @@
       <window_info anchor="right" id="Maven" order="3" weight="0.32977587" />
       <window_info anchor="right" id="Palette" order="4" />
       <window_info anchor="right" id="Capture Analysis" order="5" />
-      <window_info anchor="right" id="Gradle" order="6" visible="true" weight="0.32977587" />
+      <window_info anchor="right" id="Gradle" order="6" weight="0.32977587" />
       <window_info anchor="right" id="Database" order="7" weight="0.32977587" />
       <window_info anchor="right" id="Palette&#9;" order="8" />
       <window_info anchor="right" id="Theme Preview" order="9" />
@@ -462,13 +437,6 @@
     <entry file="file://$PROJECT_DIR$/HELP.md" />
     <entry file="file://$PROJECT_DIR$/src/main/resources/application.properties">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/imwxz/calculator/CalcError.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/imwxz/calculator/JsonResult.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -502,16 +470,6 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/imwxz/calculator/MyUserDetailsService.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/com/imwxz/calculator/MvcConfig.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/imwxz/calculator/Calculator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="22">
-          <caret line="7" column="7" lean-forward="true" selection-start-line="7" selection-start-column="7" selection-end-line="7" selection-end-column="7" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/imwxz/calculator/AdminController.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/com/imwxz/calculator/UserController.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/com/imwxz/calculator/CheckHealth.java" />
@@ -529,16 +487,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/imwxz/calculator/WebSecurityConfig.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="18" column="41" selection-start-line="18" selection-start-column="41" selection-end-line="18" selection-end-column="41" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/application.properties">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="22">
@@ -546,44 +494,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/imwxz/calculator/MainpageHealth.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/imwxz/calculator/HomeController.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/imwxz/calculator/WebSecurityConfig.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/imwxz/calculator/Calculator.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+        <state relative-caret-position="154">
+          <caret line="7" column="7" lean-forward="true" selection-start-line="7" selection-start-column="7" selection-end-line="7" selection-end-column="7" />
           <folding>
             <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/imwxz/calculator/CalculatorApplicationTests.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="506">
-          <caret line="39" column="17" selection-start-line="39" selection-start-column="17" selection-end-line="39" selection-end-column="17" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/imwxz/calculator/HomeController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="9" column="32" selection-start-line="9" selection-start-column="32" selection-end-line="9" selection-end-column="32" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/imwxz/calculator/CalculatorApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="7" selection-start-line="7" selection-end-line="7" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#256#257#0" expanded="true" />
-            <element signature="e#328#329#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -591,14 +509,28 @@
     <entry file="file://$PROJECT_DIR$/Dockerfile">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="88">
-          <caret line="4" column="77" selection-start-line="4" selection-start-column="77" selection-end-line="4" selection-end-column="77" />
+          <caret line="4" column="70" selection-start-line="4" selection-start-column="70" selection-end-line="4" selection-end-column="70" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/imwxz/calculator/CalcController.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/imwxz/calculator/CalculatorApplicationTests.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="66">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        <state relative-caret-position="88">
+          <caret line="4" column="62" selection-start-line="4" selection-start-column="62" selection-end-line="4" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/imwxz/calculator/CalcError.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/imwxz/calculator/MainpageHealth.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -607,8 +539,30 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="339">
-          <caret line="22" column="27" selection-start-line="22" selection-start-column="27" selection-end-line="22" selection-end-column="27" />
+        <state relative-caret-position="110">
+          <caret line="8" column="73" selection-start-line="8" selection-start-column="60" selection-end-line="8" selection-end-column="73" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/imwxz/calculator/CalcController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="792">
+          <caret line="46" column="5" selection-start-line="46" selection-start-column="5" selection-end-line="46" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/imwxz/calculator/CalculatorApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" column="22" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#256#257#0" expanded="true" />
+            <element signature="e#328#329#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

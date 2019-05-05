@@ -8,3 +8,4 @@ homework for SE418
 - exe4: RESTful calculator with Spring security and actuator
 - exe5: Performance
 - exe6: Dockerized calculator
+- exe7: Double dockerized calculator
