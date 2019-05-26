@@ -4,7 +4,7 @@ Container will save all Producer request, waiting for Consumer to get.
 
 If the waiting list is smaller than item wall, FIFO will be performed, otherwise LIFO.
 
-Default param:
+Default param, change as you wish:
 - Producer listen port: `1926`
 - Consumer listen port: `8170`
 - Timeout: 15s
@@ -13,14 +13,14 @@ Default param:
 ## Producer spec
 Producer will produce request to container.
 
-Default param:
+Default param, change as you wish:
 - Period: 1s
 - Format: `[port].[count]`
 
 ## Consumer spec
 Consumer will consume request from container.
 
-Default param:
+Default param, change as you wish:
 - Period: 3s if not empty, otherwise 2s
 
 ## Test
@@ -32,4 +32,5 @@ Container must have only one instance, producer and consumer have no specific li
 2. run `./container.sh` to start container.
 3. run `./producer.sh` to start a producer or `./consumer.sh` to start a consumer, if you dont concern about these output, you can add `> /dev/null 2>&1 &` at the end.
 
-e.g.
+example:
+![example](example.png)
