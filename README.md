@@ -9,3 +9,4 @@ homework for SE418
 - exe5: Performance
 - exe6: Dockerized calculator
 - exe7: Double dockerized calculator
+- exe8: Producer&Consumer
