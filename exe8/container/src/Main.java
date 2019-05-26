@@ -34,7 +34,7 @@ class Server extends Thread {
 public class Main {
     public static void main(String[] args) {
         Container.setWall(10);
-        Container.setTimeout(10000);
+        Container.setTimeout(15000);
 
         new Server(1926, 1).start();
         new Server(8170, 2).start();
